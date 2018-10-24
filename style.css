@@ -83,3 +83,13 @@ padding:10px;
 .movie:hover{
   color: rgba(70, 70, 120, 0.8);
 }
+
+@media (max-width: 540px) {
+  .container {
+    width: 400px;
+    margin:0px auto;
+  }
+  body {
+    margin: 0px;
+  }
+}
