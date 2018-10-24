@@ -84,6 +84,12 @@ padding:10px;
 .movie:hover{
   color: rgba(70, 70, 120, 0.8);
 }
+.red{
+  color: #DD5555;
+}
+.red:hover{
+  color:red;
+}
 
 @media (max-width: 540px) {
   .container {
