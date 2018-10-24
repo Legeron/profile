@@ -28,6 +28,7 @@ h3{
 body{
   background-image: url("http://hdfondsdecran.com/image/201609/1948/surf-planche-plage-noir-et-blanc.jpg");
   background-size: cover;
+  margin:0px;
 }
 
 .text-center {
@@ -88,8 +89,5 @@ padding:10px;
   .container {
     width: 400px;
     margin:0px auto;
-  }
-  body {
-    margin: 0px;
   }
 }
